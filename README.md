@@ -1,3 +1,5 @@
+## 안전교육 스킵
+
 1. 먼저 [Violentmonkey](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag) 설치해주십시오
 
 2. [여기 클릭해서 스크립트 설치해주십시오](https://github.com/EdisonJwa/safety-education-skip/raw/main/safety-skip.user.js)
