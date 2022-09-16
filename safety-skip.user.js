@@ -13,7 +13,7 @@
 // @match       https://safetyedu.hanyang.ac.kr/Contents/*
 // @match       https://safety.kongju.ac.kr/Contents/*
 // @grant       none
-// @version     1.0.1
+// @version     1.1.0
 // @author      EdisonJwa
 // @description 2022. 03. 04. 오전 10:59:48
 // ==/UserScript==
