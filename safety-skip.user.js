@@ -13,9 +13,9 @@
 // @match       https://safetyedu.hanyang.ac.kr/Contents/*
 // @match       https://safety.kongju.ac.kr/Contents/*
 // @grant       none
-// @version     1.1
+// @version     1.0.1
 // @author      EdisonJwa
-// @description 2022. 09. 04. 오전 10:59:48
+// @description 2022. 03. 04. 오전 10:59:48
 // ==/UserScript==
 var a = document.createElement("Button");
 for (idx in chapterInfo) {if (fileName == chapterInfo[idx].fileName) {c = chapterInfo[idx].page;}}
